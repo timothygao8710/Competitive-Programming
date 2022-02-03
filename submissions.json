@@ -5148,6 +5148,25 @@
     ],
     "timestamp": "Jan/13/2022 17:48"
   },
+  "CF144987828": {
+    "contest_id": 1500,
+    "language": "GNU C++17",
+    "path": "codeforces/1500/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Going Home",
+    "problem_url": "https://codeforces.com/contest/1500/problem/A",
+    "submission_id": "CF144987828",
+    "submission_url": "https://codeforces.com/contest/1500/submission/144987828",
+    "tags": [
+      "brute force",
+      "hashing",
+      "implementation",
+      "math",
+      "*1800"
+    ],
+    "timestamp": "Feb/02/2022 19:12"
+  },
   "CF145081804": {
     "contest_id": 1630,
     "language": "GNU C++17",

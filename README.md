@@ -12,16 +12,17 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-292 | [B - Fortune Telling](https://codeforces.com/contest/1634/problem/B) | [GNU C++17](./codeforces/1634/B.cpp) | `bitmasks` `math` `*1400` | Feb/17/2022 21:23 | 
-291 | [F - Fibonacci Additions](https://codeforces.com/contest/1634/problem/F) | [GNU C++17](./codeforces/1634/F.cpp) | `brute force` `data structures` `hashing` `implementation` `math` `*2700` | Feb/17/2022 21:04 | 
-290 | [C - Inversion Graph](https://codeforces.com/contest/1638/problem/C) | [GNU C++17](./codeforces/1638/C.cpp) | `data structures` `dsu` `graphs` `math` | Feb/14/2022 15:59 | 
-289 | [D - Yet Another Minimization Problem](https://codeforces.com/contest/1637/problem/D) | [GNU C++17](./codeforces/1637/D.cpp) | `brute force` `dp` `greedy` `math` | Feb/12/2022 14:43 | 
-288 | [C - Strange Function](https://codeforces.com/contest/1542/problem/C) | [GNU C++17](./codeforces/1542/C.cpp) | `math` `number theory` `*1600` | Feb/11/2022 11:13 | 
-287 | [E - Fair Share](https://codeforces.com/contest/1634/problem/E) | [GNU C++17](./codeforces/1634/E.cpp) | `constructive algorithms` `data structures` `dfs and similar` `graph matchings` `graphs` `*2400` | Feb/07/2022 21:06 | 
-286 | [D - Finding Zero](https://codeforces.com/contest/1634/problem/D) | [GNU C++17](./codeforces/1634/D.cpp) | `constructive algorithms` `interactive` `math` `*2000` | Feb/06/2022 08:56 | 
-285 | [C - OKEA](https://codeforces.com/contest/1634/problem/C) | [GNU C++17](./codeforces/1634/C.cpp) | `constructive algorithms` `*1000` | Feb/06/2022 07:30 | 
-284 | [A - Reverse and Concatenate](https://codeforces.com/contest/1634/problem/A) | [GNU C++17](./codeforces/1634/A.cpp) | `greedy` `strings` `*800` | Feb/06/2022 06:42 | 
-283 | [B - Range and Partition](https://codeforces.com/contest/1630/problem/B) | [GNU C++17](./codeforces/1630/B.cpp) | `binary search` `constructive algorithms` `data structures` `greedy` `two pointers` `*1800` | Feb/03/2022 16:29 | 
+293 | [B - Fortune Telling](https://codeforces.com/contest/1634/problem/B) | [GNU C++17](./codeforces/1634/B.cpp) | `bitmasks` `math` `*1400` | Feb/17/2022 21:23 | 
+292 | [F - Fibonacci Additions](https://codeforces.com/contest/1634/problem/F) | [GNU C++17](./codeforces/1634/F.cpp) | `brute force` `data structures` `hashing` `implementation` `math` `*2700` | Feb/17/2022 21:04 | 
+291 | [C - Inversion Graph](https://codeforces.com/contest/1638/problem/C) | [GNU C++17](./codeforces/1638/C.cpp) | `data structures` `dsu` `graphs` `math` | Feb/14/2022 15:59 | 
+290 | [D - Yet Another Minimization Problem](https://codeforces.com/contest/1637/problem/D) | [GNU C++17](./codeforces/1637/D.cpp) | `brute force` `dp` `greedy` `math` | Feb/12/2022 14:43 | 
+289 | [C - Strange Function](https://codeforces.com/contest/1542/problem/C) | [GNU C++17](./codeforces/1542/C.cpp) | `math` `number theory` `*1600` | Feb/11/2022 11:13 | 
+288 | [E - Fair Share](https://codeforces.com/contest/1634/problem/E) | [GNU C++17](./codeforces/1634/E.cpp) | `constructive algorithms` `data structures` `dfs and similar` `graph matchings` `graphs` `*2400` | Feb/07/2022 21:06 | 
+287 | [D - Finding Zero](https://codeforces.com/contest/1634/problem/D) | [GNU C++17](./codeforces/1634/D.cpp) | `constructive algorithms` `interactive` `math` `*2000` | Feb/06/2022 08:56 | 
+286 | [C - OKEA](https://codeforces.com/contest/1634/problem/C) | [GNU C++17](./codeforces/1634/C.cpp) | `constructive algorithms` `*1000` | Feb/06/2022 07:30 | 
+285 | [A - Reverse and Concatenate](https://codeforces.com/contest/1634/problem/A) | [GNU C++17](./codeforces/1634/A.cpp) | `greedy` `strings` `*800` | Feb/06/2022 06:42 | 
+284 | [B - Range and Partition](https://codeforces.com/contest/1630/problem/B) | [GNU C++17](./codeforces/1630/B.cpp) | `binary search` `constructive algorithms` `data structures` `greedy` `two pointers` `*1800` | Feb/03/2022 16:29 | 
+283 | [A - Going Home](https://codeforces.com/contest/1500/problem/A) | [GNU C++17](./codeforces/1500/A.cpp) | `brute force` `hashing` `implementation` `math` `*1800` | Feb/02/2022 19:12 | 
 282 | [D - Binary Spiders](https://codeforces.com/contest/1625/problem/D) | [GNU C++17](./codeforces/1625/D.cpp) | `bitmasks` `data structures` `implementation` `math` `sortings` `trees` `*2300` | Jan/13/2022 17:48 | 
 281 | [E - Sum Equals Xor](https://atcoder.jp/contests/abc129/tasks/abc129_e) | [C++ (GCC 9.2.1)](./atcoder/abc129/E.cpp) | `AtCoder` `*500` | Jan/07/2022 20:40 | 
 280 | [D - Lamp](https://atcoder.jp/contests/abc129/tasks/abc129_d) | [C++ (GCC 9.2.1)](./atcoder/abc129/D.cpp) | `AtCoder` `*400` | Jan/07/2022 20:21 | 
