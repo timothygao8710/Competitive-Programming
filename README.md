@@ -12,10 +12,11 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-286 | [B - Fortune Telling](https://codeforces.com/contest/1634/problem/B) | [GNU C++17](./codeforces/1634/B.cpp) | `bitmasks` `math` `*1400` | Feb/17/2022 21:23 | 
-285 | [F - Fibonacci Additions](https://codeforces.com/contest/1634/problem/F) | [GNU C++17](./codeforces/1634/F.cpp) | `brute force` `data structures` `hashing` `implementation` `math` `*2700` | Feb/17/2022 21:04 | 
-284 | [C - Inversion Graph](https://codeforces.com/contest/1638/problem/C) | [GNU C++17](./codeforces/1638/C.cpp) | `data structures` `dsu` `graphs` `math` | Feb/14/2022 15:59 | 
-283 | [D - Yet Another Minimization Problem](https://codeforces.com/contest/1637/problem/D) | [GNU C++17](./codeforces/1637/D.cpp) | `brute force` `dp` `greedy` `math` | Feb/12/2022 14:43 | 
+287 | [B - Fortune Telling](https://codeforces.com/contest/1634/problem/B) | [GNU C++17](./codeforces/1634/B.cpp) | `bitmasks` `math` `*1400` | Feb/17/2022 21:23 | 
+286 | [F - Fibonacci Additions](https://codeforces.com/contest/1634/problem/F) | [GNU C++17](./codeforces/1634/F.cpp) | `brute force` `data structures` `hashing` `implementation` `math` `*2700` | Feb/17/2022 21:04 | 
+285 | [C - Inversion Graph](https://codeforces.com/contest/1638/problem/C) | [GNU C++17](./codeforces/1638/C.cpp) | `data structures` `dsu` `graphs` `math` | Feb/14/2022 15:59 | 
+284 | [D - Yet Another Minimization Problem](https://codeforces.com/contest/1637/problem/D) | [GNU C++17](./codeforces/1637/D.cpp) | `brute force` `dp` `greedy` `math` | Feb/12/2022 14:43 | 
+283 | [C - Strange Function](https://codeforces.com/contest/1542/problem/C) | [GNU C++17](./codeforces/1542/C.cpp) | `math` `number theory` `*1600` | Feb/11/2022 11:13 | 
 282 | [D - Binary Spiders](https://codeforces.com/contest/1625/problem/D) | [GNU C++17](./codeforces/1625/D.cpp) | `bitmasks` `data structures` `implementation` `math` `sortings` `trees` `*2300` | Jan/13/2022 17:48 | 
 281 | [E - Sum Equals Xor](https://atcoder.jp/contests/abc129/tasks/abc129_e) | [C++ (GCC 9.2.1)](./atcoder/abc129/E.cpp) | `AtCoder` `*500` | Jan/07/2022 20:40 | 
 280 | [D - Lamp](https://atcoder.jp/contests/abc129/tasks/abc129_d) | [C++ (GCC 9.2.1)](./atcoder/abc129/D.cpp) | `AtCoder` `*400` | Jan/07/2022 20:21 | 
