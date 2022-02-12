@@ -5148,6 +5148,24 @@
     ],
     "timestamp": "Jan/13/2022 17:48"
   },
+  "CF146178235": {
+    "contest_id": 1637,
+    "language": "GNU C++17",
+    "path": "codeforces/1637/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Yet Another Minimization Problem",
+    "problem_url": "https://codeforces.com/contest/1637/problem/D",
+    "submission_id": "CF146178235",
+    "submission_url": "https://codeforces.com/contest/1637/submission/146178235",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "math"
+    ],
+    "timestamp": "Feb/12/2022 14:43"
+  },
   "CF146459796": {
     "contest_id": 1638,
     "language": "GNU C++17",
