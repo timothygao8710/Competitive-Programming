@@ -4,15 +4,15 @@ Submissions
 
 ## Introduction
 
-This is a repository to keep track of the CP problems I've solved on the following platforms:
+A repository to keep track of problem solving practice, containing solutions from platforms:
 * Codeforces &nbsp; [![Codeforces](https://run.kaist.ac.kr/badges/codeforces/timg8710.svg)](https://codeforces.com/profile/timg8710)
-* AtCoder &nbsp; [![AtCoder](https://run.kaist.ac.kr/badges/atcoder/timg8710.svg)](https://atcoder.jp/users/timg8710)
 
 
 ## Contents
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+283 | [B - Fortune Telling](https://codeforces.com/contest/1634/problem/B) | [GNU C++17](./codeforces/1634/B.cpp) | `bitmasks` `math` `*1400` | Feb/17/2022 21:23 | 
 282 | [D - Binary Spiders](https://codeforces.com/contest/1625/problem/D) | [GNU C++17](./codeforces/1625/D.cpp) | `bitmasks` `data structures` `implementation` `math` `sortings` `trees` `*2300` | Jan/13/2022 17:48 | 
 281 | [E - Sum Equals Xor](https://atcoder.jp/contests/abc129/tasks/abc129_e) | [C++ (GCC 9.2.1)](./atcoder/abc129/E.cpp) | `AtCoder` `*500` | Jan/07/2022 20:40 | 
 280 | [D - Lamp](https://atcoder.jp/contests/abc129/tasks/abc129_d) | [C++ (GCC 9.2.1)](./atcoder/abc129/D.cpp) | `AtCoder` `*400` | Jan/07/2022 20:21 | 
@@ -76,8 +76,8 @@ This is a repository to keep track of the CP problems I've solved on the followi
 222 | [A - Plant](https://codeforces.com/contest/185/problem/A) | [GNU C++17](./codeforces/185/A.cpp) | `math` `*1300` | Oct/30/2021 11:23 | 
 221 | [E - Almost Sorted](https://codeforces.com/contest/1509/problem/E) | [GNU C++17](./codeforces/1509/E.cpp) | `brute force` `constructive algorithms` `math` `*1800` | Oct/26/2021 09:15 | 
 220 | [G - Candy Box (hard version)](https://codeforces.com/contest/1183/problem/G) | [GNU C++17](./codeforces/1183/G.cpp) | `greedy` `implementation` `sortings` `*2000` | Oct/14/2021 17:26 | 
-219 | [E - Rotate and Flip](https://atcoder.jp/contests/abc189/tasks/abc189_e) | [Java (OpenJDK 11.0.6)](./atcoder/abc189/E.java) | `AtCoder` `*500` | Oct/09/2021 16:39 | 
-218 | [B - Alcoholic](https://atcoder.jp/contests/abc189/tasks/abc189_b) | [C++ (GCC 9.2.1)](./atcoder/abc189/B.cpp) | `AtCoder` `*200` | Oct/09/2021 16:39 | 
+219 | [B - Alcoholic](https://atcoder.jp/contests/abc189/tasks/abc189_b) | [C++ (GCC 9.2.1)](./atcoder/abc189/B.cpp) | `AtCoder` `*200` | Oct/09/2021 16:39 | 
+218 | [E - Rotate and Flip](https://atcoder.jp/contests/abc189/tasks/abc189_e) | [Java (OpenJDK 11.0.6)](./atcoder/abc189/E.java) | `AtCoder` `*500` | Oct/09/2021 16:39 | 
 217 | [D - Logical Expression](https://atcoder.jp/contests/abc189/tasks/abc189_d) | [C++ (GCC 9.2.1)](./atcoder/abc189/D.cpp) | `AtCoder` `*400` | Oct/09/2021 16:32 | 
 216 | [C - Mandarin Orange](https://atcoder.jp/contests/abc189/tasks/abc189_c) | [C++ (GCC 9.2.1)](./atcoder/abc189/C.cpp) | `AtCoder` `*300` | Oct/09/2021 16:22 | 
 215 | [A - Slot](https://atcoder.jp/contests/abc189/tasks/abc189_a) | [C++ (GCC 9.2.1)](./atcoder/abc189/A.cpp) | `AtCoder` `*100` | Oct/09/2021 16:11 | 
