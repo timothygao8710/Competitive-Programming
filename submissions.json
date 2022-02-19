@@ -5526,6 +5526,24 @@
     ],
     "timestamp": "Feb/17/2022 21:23"
   },
+  "CF146981401": {
+    "contest_id": 954,
+    "language": "GNU C++17",
+    "path": "codeforces/954/F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Runner's Problem",
+    "problem_url": "https://codeforces.com/contest/954/problem/F",
+    "submission_id": "CF146981401",
+    "submission_url": "https://codeforces.com/contest/954/submission/146981401",
+    "tags": [
+      "dp",
+      "matrices",
+      "sortings",
+      "*2100"
+    ],
+    "timestamp": "Feb/19/2022 15:15"
+  },
   "CF147040133": {
     "contest_id": 1635,
     "language": "GNU C++17",
