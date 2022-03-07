@@ -5526,6 +5526,23 @@
     ],
     "timestamp": "Feb/17/2022 21:23"
   },
+  "CF148733442": {
+    "contest_id": 1642,
+    "language": "GNU C++17",
+    "path": "codeforces/1642/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Great Sequence",
+    "problem_url": "https://codeforces.com/contest/1642/problem/C",
+    "submission_id": "CF148733442",
+    "submission_url": "https://codeforces.com/contest/1642/submission/148733442",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Mar/07/2022 10:59"
+  },
   "CF148755489": {
     "contest_id": 1642,
     "language": "GNU C++17",
