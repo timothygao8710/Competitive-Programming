@@ -5526,6 +5526,23 @@
     ],
     "timestamp": "Feb/17/2022 21:23"
   },
+  "CF148755489": {
+    "contest_id": 1642,
+    "language": "GNU C++17",
+    "path": "codeforces/1642/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Repetitions Decoding",
+    "problem_url": "https://codeforces.com/contest/1642/problem/D",
+    "submission_id": "CF148755489",
+    "submission_url": "https://codeforces.com/contest/1642/submission/148755489",
+    "tags": [
+      "constructive algorithms",
+      "sortings",
+      "*2000"
+    ],
+    "timestamp": "Mar/07/2022 20:46"
+  },
   "CF149224403": {
     "contest_id": 1642,
     "language": "GNU C++17",
