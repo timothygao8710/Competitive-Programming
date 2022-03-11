@@ -5526,6 +5526,24 @@
     ],
     "timestamp": "Feb/17/2022 21:23"
   },
+  "CF149224403": {
+    "contest_id": 1642,
+    "language": "GNU C++17",
+    "path": "codeforces/1642/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Anonymity Is Important",
+    "problem_url": "https://codeforces.com/contest/1642/problem/E",
+    "submission_id": "CF149224403",
+    "submission_url": "https://codeforces.com/contest/1642/submission/149224403",
+    "tags": [
+      "binary search",
+      "data structures",
+      "sortings",
+      "*2200"
+    ],
+    "timestamp": "Mar/10/2022 23:52"
+  },
   "CF149344851": {
     "contest_id": 1647,
     "language": "GNU C++17",
