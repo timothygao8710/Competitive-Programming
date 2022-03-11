@@ -5526,6 +5526,25 @@
     ],
     "timestamp": "Feb/17/2022 21:23"
   },
+  "CF149356457": {
+    "contest_id": 1647,
+    "language": "GNU C++17",
+    "path": "codeforces/1647/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Madoka and the Best School in Russia",
+    "problem_url": "https://codeforces.com/contest/1647/problem/D",
+    "submission_id": "CF149356457",
+    "submission_url": "https://codeforces.com/contest/1647/submission/149356457",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "math",
+      "number theory",
+      "*1900"
+    ],
+    "timestamp": "Mar/11/2022 12:40"
+  },
   "CF149362164": {
     "contest_id": 1504,
     "language": "GNU C++17",
