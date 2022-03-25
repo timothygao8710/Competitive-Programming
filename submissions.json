@@ -5526,6 +5526,24 @@
     ],
     "timestamp": "Feb/17/2022 21:23"
   },
+  "CF150840806": {
+    "contest_id": 1647,
+    "language": "GNU C++17",
+    "path": "codeforces/1647/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Madoka and the Sixth-graders",
+    "problem_url": "https://codeforces.com/contest/1647/problem/E",
+    "submission_id": "CF150840806",
+    "submission_url": "https://codeforces.com/contest/1647/submission/150840806",
+    "tags": [
+      "data structures",
+      "dfs and similar",
+      "greedy",
+      "*2500"
+    ],
+    "timestamp": "Mar/24/2022 19:02"
+  },
   "CF150960431": {
     "contest_id": 1592,
     "language": "GNU C++17",
