@@ -5526,6 +5526,27 @@
     ],
     "timestamp": "Feb/17/2022 21:23"
   },
+  "CF150960431": {
+    "contest_id": 1592,
+    "language": "GNU C++17",
+    "path": "codeforces/1592/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Bakry and Partitioning",
+    "problem_url": "https://codeforces.com/contest/1592/problem/C",
+    "submission_id": "CF150960431",
+    "submission_url": "https://codeforces.com/contest/1592/submission/150960431",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "dfs and similar",
+      "dp",
+      "graphs",
+      "trees",
+      "*1700"
+    ],
+    "timestamp": "Mar/25/2022 22:37"
+  },
   "CF152609255": {
     "contest_id": 1038,
     "language": "GNU C++17",
