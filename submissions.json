@@ -5526,6 +5526,23 @@
     ],
     "timestamp": "Feb/17/2022 21:23"
   },
+  "CF152787772": {
+    "contest_id": 774,
+    "language": "GNU C++17",
+    "path": "codeforces/774/L.cpp",
+    "platform": "Codeforces",
+    "problem_index": "L",
+    "problem_name": "Bars",
+    "problem_url": "https://codeforces.com/contest/774/problem/L",
+    "submission_id": "CF152787772",
+    "submission_url": "https://codeforces.com/contest/774/submission/152787772",
+    "tags": [
+      "*special problem",
+      "binary search",
+      "*2000"
+    ],
+    "timestamp": "Apr/05/2022 11:02"
+  },
   "CF152824810": {
     "contest_id": 1657,
     "language": "GNU C++17",
