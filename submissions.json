@@ -5526,6 +5526,23 @@
     ],
     "timestamp": "Feb/17/2022 21:23"
   },
+  "CF152947891": {
+    "contest_id": 523,
+    "language": "GNU C++17",
+    "path": "codeforces/523/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Name Quest",
+    "problem_url": "https://codeforces.com/contest/523/problem/C",
+    "submission_id": "CF152947891",
+    "submission_url": "https://codeforces.com/contest/523/submission/152947891",
+    "tags": [
+      "*special problem",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "Apr/07/2022 09:48"
+  },
   "CF152949783": {
     "contest_id": 1468,
     "language": "GNU C++17",
