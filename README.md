@@ -12,18 +12,19 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-315 | [D - Insert a Progression](https://codeforces.com/contest/1671/problem/D) | [GNU C++17](./codeforces/1671/D.cpp) | `brute force` `constructive algorithms` `greedy` | Apr/22/2022 23:05 | 
-314 | [E - 2-Letter Strings](https://codeforces.com/contest/1669/problem/E) | [GNU C++17](./codeforces/1669/E.cpp) | `data structures` `math` `strings` `*1200` | Apr/22/2022 11:45 | 
-313 | [H - Maximal AND](https://codeforces.com/contest/1669/problem/H) | [GNU C++17](./codeforces/1669/H.cpp) | `bitmasks` `greedy` `math` `*1300` | Apr/21/2022 12:53 | 
-312 | [A - Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | [GNU C++17](./codeforces/1659/A.cpp) | `constructive algorithms` `greedy` `implementation` `math` `*1000` | Apr/18/2022 09:57 | 
-311 | [E - AND-MEX Walk](https://codeforces.com/contest/1659/problem/E) | [GNU C++17](./codeforces/1659/E.cpp) | `bitmasks` `brute force` `constructive algorithms` `dfs and similar` `dsu` `graphs` `*2200` | Apr/17/2022 10:56 | 
-310 | [D - Mahmoud and Ehab and the binary string](https://codeforces.com/contest/862/problem/D) | [GNU C++17](./codeforces/862/D.cpp) | `binary search` `divide and conquer` `interactive` `*2000` | Apr/14/2022 16:46 | 
-309 | [D - Progressions Covering](https://codeforces.com/contest/1661/problem/D) | [GNU C++17](./codeforces/1661/D.cpp) | `data structures` `greedy` `*1900` | Apr/09/2022 10:06 | 
-308 | [B - Getting Zero](https://codeforces.com/contest/1661/problem/B) | [GNU C++17](./codeforces/1661/B.cpp) | `bitmasks` `brute force` `dfs and similar` `dp` `graphs` `greedy` `shortest paths` `*1300` | Apr/09/2022 08:07 | 
-307 | [A - Array Balancing](https://codeforces.com/contest/1661/problem/A) | [GNU C++17](./codeforces/1661/A.cpp) | `greedy` `math` `*800` | Apr/09/2022 07:37 | 
-306 | [D - GCD Guess](https://codeforces.com/contest/1665/problem/D) | [GNU C++17](./codeforces/1665/D.cpp) | `bitmasks` `chinese remainder theorem` `constructive algorithms` `games` `interactive` `math` `number theory` `*2000` | Apr/08/2022 09:33 | 
-305 | [C - Tree Infection](https://codeforces.com/contest/1665/problem/C) | [GNU C++17](./codeforces/1665/C.cpp) | `binary search` `greedy` `sortings` `trees` `*1600` | Apr/08/2022 08:35 | 
-304 | [B - Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | [GNU C++17](./codeforces/1665/B.cpp) | `constructive algorithms` `greedy` `sortings` `*900` | Apr/08/2022 07:43 | 
+316 | [D - Insert a Progression](https://codeforces.com/contest/1671/problem/D) | [GNU C++17](./codeforces/1671/D.cpp) | `brute force` `constructive algorithms` `greedy` | Apr/22/2022 23:05 | 
+315 | [E - 2-Letter Strings](https://codeforces.com/contest/1669/problem/E) | [GNU C++17](./codeforces/1669/E.cpp) | `data structures` `math` `strings` `*1200` | Apr/22/2022 11:45 | 
+314 | [H - Maximal AND](https://codeforces.com/contest/1669/problem/H) | [GNU C++17](./codeforces/1669/H.cpp) | `bitmasks` `greedy` `math` `*1300` | Apr/21/2022 12:53 | 
+313 | [A - Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | [GNU C++17](./codeforces/1659/A.cpp) | `constructive algorithms` `greedy` `implementation` `math` `*1000` | Apr/18/2022 09:57 | 
+312 | [E - AND-MEX Walk](https://codeforces.com/contest/1659/problem/E) | [GNU C++17](./codeforces/1659/E.cpp) | `bitmasks` `brute force` `constructive algorithms` `dfs and similar` `dsu` `graphs` `*2200` | Apr/17/2022 10:56 | 
+311 | [D - Mahmoud and Ehab and the binary string](https://codeforces.com/contest/862/problem/D) | [GNU C++17](./codeforces/862/D.cpp) | `binary search` `divide and conquer` `interactive` `*2000` | Apr/14/2022 16:46 | 
+310 | [D - Progressions Covering](https://codeforces.com/contest/1661/problem/D) | [GNU C++17](./codeforces/1661/D.cpp) | `data structures` `greedy` `*1900` | Apr/09/2022 10:06 | 
+309 | [B - Getting Zero](https://codeforces.com/contest/1661/problem/B) | [GNU C++17](./codeforces/1661/B.cpp) | `bitmasks` `brute force` `dfs and similar` `dp` `graphs` `greedy` `shortest paths` `*1300` | Apr/09/2022 08:07 | 
+308 | [A - Array Balancing](https://codeforces.com/contest/1661/problem/A) | [GNU C++17](./codeforces/1661/A.cpp) | `greedy` `math` `*800` | Apr/09/2022 07:37 | 
+307 | [D - GCD Guess](https://codeforces.com/contest/1665/problem/D) | [GNU C++17](./codeforces/1665/D.cpp) | `bitmasks` `chinese remainder theorem` `constructive algorithms` `games` `interactive` `math` `number theory` `*2000` | Apr/08/2022 09:33 | 
+306 | [C - Tree Infection](https://codeforces.com/contest/1665/problem/C) | [GNU C++17](./codeforces/1665/C.cpp) | `binary search` `greedy` `sortings` `trees` `*1600` | Apr/08/2022 08:35 | 
+305 | [B - Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | [GNU C++17](./codeforces/1665/B.cpp) | `constructive algorithms` `greedy` `sortings` `*900` | Apr/08/2022 07:43 | 
+304 | [A - GCD vs LCM](https://codeforces.com/contest/1665/problem/A) | [GNU C++17](./codeforces/1665/A.cpp) | `constructive algorithms` `math` `*800` | Apr/08/2022 07:37 | 
 303 | [B - Fortune Telling](https://codeforces.com/contest/1634/problem/B) | [GNU C++17](./codeforces/1634/B.cpp) | `bitmasks` `math` `*1400` | Feb/17/2022 21:23 | 
 302 | [F - Fibonacci Additions](https://codeforces.com/contest/1634/problem/F) | [GNU C++17](./codeforces/1634/F.cpp) | `brute force` `data structures` `hashing` `implementation` `math` `*2700` | Feb/17/2022 21:04 | 
 301 | [C - Inversion Graph](https://codeforces.com/contest/1638/problem/C) | [GNU C++17](./codeforces/1638/C.cpp) | `data structures` `dsu` `graphs` `math` | Feb/14/2022 15:59 | 
