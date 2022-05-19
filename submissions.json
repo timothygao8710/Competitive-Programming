@@ -6344,6 +6344,24 @@
     ],
     "timestamp": "Apr/22/2022 23:05"
   },
+  "CF157750802": {
+    "contest_id": 1684,
+    "language": "GNU C++17",
+    "path": "codeforces/1684/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Traps",
+    "problem_url": "https://codeforces.com/contest/1684/problem/D",
+    "submission_id": "CF157750802",
+    "submission_url": "https://codeforces.com/contest/1684/submission/157750802",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "May/19/2022 15:02"
+  },
   "CF157764709": {
     "contest_id": 1684,
     "language": "GNU C++17",
