@@ -6344,6 +6344,25 @@
     ],
     "timestamp": "Apr/22/2022 23:05"
   },
+  "CF157824137": {
+    "contest_id": 1679,
+    "language": "GNU C++17",
+    "path": "codeforces/1679/E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Typical Party in Dorm",
+    "problem_url": "https://codeforces.com/contest/1679/problem/E",
+    "submission_id": "CF157824137",
+    "submission_url": "https://codeforces.com/contest/1679/submission/157824137",
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "dp",
+      "strings",
+      "*2400"
+    ],
+    "timestamp": "May/20/2022 09:03"
+  },
   "CF157826250": {
     "contest_id": 1679,
     "language": "GNU C++17",
