@@ -6344,6 +6344,24 @@
     ],
     "timestamp": "Apr/22/2022 23:05"
   },
+  "CF158081029": {
+    "contest_id": 1682,
+    "language": "GNU C++17",
+    "path": "codeforces/1682/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Circular Spanning Tree",
+    "problem_url": "https://codeforces.com/contest/1682/problem/D",
+    "submission_id": "CF158081029",
+    "submission_url": "https://codeforces.com/contest/1682/submission/158081029",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "trees",
+      "*2000"
+    ],
+    "timestamp": "May/22/2022 10:24"
+  },
   "CF159083760": {
     "contest_id": 1691,
     "language": "GNU C++17",
