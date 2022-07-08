@@ -6344,6 +6344,27 @@
     ],
     "timestamp": "Apr/22/2022 23:05"
   },
+  "CF163286564": {
+    "contest_id": 1701,
+    "language": "GNU C++17",
+    "path": "codeforces/1701/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Permutation Restoration",
+    "problem_url": "https://codeforces.com/contest/1701/problem/D",
+    "submission_id": "CF163286564",
+    "submission_url": "https://codeforces.com/contest/1701/submission/163286564",
+    "tags": [
+      "binary search",
+      "data structures",
+      "greedy",
+      "math",
+      "sortings",
+      "two pointers",
+      "*1900"
+    ],
+    "timestamp": "Jul/08/2022 09:05"
+  },
   "CF164539003": {
     "contest_id": 1708,
     "language": "GNU C++17",
