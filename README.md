@@ -12,8 +12,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-350 | [D - Difference Array](https://codeforces.com/contest/1708/problem/D) | [GNU C++17](./codeforces/1708/D.cpp) | `brute force` `sortings` `*1900` | Jul/21/2022 19:56 | 
-349 | [C - Doremy's IQ](https://codeforces.com/contest/1708/problem/C) | [GNU C++17](./codeforces/1708/C.cpp) | `binary search` `greedy` `*1600` | Jul/21/2022 19:27 | 
+351 | [D - Difference Array](https://codeforces.com/contest/1708/problem/D) | [GNU C++17](./codeforces/1708/D.cpp) | `brute force` `sortings` `*1900` | Jul/21/2022 19:56 | 
+350 | [C - Doremy's IQ](https://codeforces.com/contest/1708/problem/C) | [GNU C++17](./codeforces/1708/C.cpp) | `binary search` `greedy` `*1600` | Jul/21/2022 19:27 | 
+349 | [B - Difference of GCDs](https://codeforces.com/contest/1708/problem/B) | [GNU C++17](./codeforces/1708/B.cpp) | `constructive algorithms` `math` `*1100` | Jul/16/2022 12:00 | 
 348 | [D - Insert a Progression](https://codeforces.com/contest/1671/problem/D) | [GNU C++17](./codeforces/1671/D.cpp) | `brute force` `constructive algorithms` `greedy` | Apr/22/2022 23:05 | 
 347 | [E - 2-Letter Strings](https://codeforces.com/contest/1669/problem/E) | [GNU C++17](./codeforces/1669/E.cpp) | `data structures` `math` `strings` `*1200` | Apr/22/2022 11:45 | 
 346 | [H - Maximal AND](https://codeforces.com/contest/1669/problem/H) | [GNU C++17](./codeforces/1669/H.cpp) | `bitmasks` `greedy` `math` `*1300` | Apr/21/2022 12:53 | 
