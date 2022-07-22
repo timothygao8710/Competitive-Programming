@@ -6344,6 +6344,23 @@
     ],
     "timestamp": "Apr/22/2022 23:05"
   },
+  "CF165256296": {
+    "contest_id": 1708,
+    "language": "GNU C++17",
+    "path": "codeforces/1708/D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Difference Array",
+    "problem_url": "https://codeforces.com/contest/1708/problem/D",
+    "submission_id": "CF165256296",
+    "submission_url": "https://codeforces.com/contest/1708/submission/165256296",
+    "tags": [
+      "brute force",
+      "sortings",
+      "*1900"
+    ],
+    "timestamp": "Jul/21/2022 19:56"
+  },
   "CF76438569": {
     "contest_id": 433,
     "language": "Java 11",
