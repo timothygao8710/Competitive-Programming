@@ -11,7 +11,7 @@ typedef pair<int, int> pii;
  
 #define f first
 #define s second
-//bruv how is this 2.8k rated
+
 template <typename T>
 struct segtree
 {
