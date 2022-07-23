@@ -4,7 +4,8 @@ Submissions
 
 ## Introduction
 
-A repository to keep track of problem solving practice, containing solutions from platforms:
+A repository to keep track of problem solving practice, containing solutions from [Codeforces](https://codeforces.com/profile/timg8710) and Atcoder.
+
 
 ## Contents
 
