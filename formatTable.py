@@ -17,8 +17,10 @@ with open('README.md') as f:
 
 solved_problems = sorted(solved_problems, key=lambda x: -x[0])
 
-for i in solved_problems:
-    res.append(i[1])
+for i in range(len(solved_problems)):
+    cur = solved_problems[i][1].split(' ')
+    cur[0] = str(i+1)
+    res.append(' '.join(cur))
 
 text_file = open("formatted.md", "w")
  
