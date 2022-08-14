@@ -16,7 +16,7 @@ template <typename T>
 struct segtree
 {
     pii none = pii(-1,-1);
-    T ys; //only needed at leaves, on hindsight shouldnt have put this in segtree
+    T ys;
     int mx = -1;
     int gL, gR, mid;
     segtree<T> *left;
